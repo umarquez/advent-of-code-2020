@@ -4,6 +4,10 @@
 
 Here are my solutions to the challenge
 
+## Requirements
+
++ Golang _Go v1.14.2_
+
 ## Instructions
 
 ```

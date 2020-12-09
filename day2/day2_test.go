@@ -1061,7 +1061,7 @@ func TestValidateCharsLocations(t *testing.T) {
 			args: args{
 				values: values,
 			},
-			wantValids: 308,
+			wantValids: 405,
 		},
 	}
 	for _, tt := range tests {

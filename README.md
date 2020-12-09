@@ -22,15 +22,15 @@ go test ./...
 
 The sum of numbers
 
-1. The multiplication of two numbers that sums 2020. ✔
-2. The multiplication of three numbers that sums 2020. ✔
+1. The multiplication of two numbers that sums 2020.
+2. The multiplication of three numbers that sums 2020.
 
 ## Day 2
 
 Password validations
 
-1. Validating chars repetition. ✔
-2. Validating only one position match with the required char. ✔
+1. Validating chars repetition.
+2. Validating only one position match with the required char.
 
 -----
 > Copyright (c) 2020. Uriel Márquez All Rights Reserved

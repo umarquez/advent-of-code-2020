@@ -79,8 +79,8 @@ func ValidateCharsLocations(values [][]string) (valids int) {
 		char = string(pattern[ix])
 		aPos, _ := strconv.Atoi(strA)
 		bPos, _ := strconv.Atoi(strB)
-		a := string(password[aPos]) == char
-		b := string(password[bPos]) == char
+		a := string(password[aPos-1]) == char
+		b := string(password[bPos-1]) == char
 		result := (a || b) && !(a && b) // XORing results (only one positions is allowed to match)
 
 		if result {

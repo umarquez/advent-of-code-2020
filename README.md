@@ -32,6 +32,13 @@ Password validations
 1. Validating chars repetition.
 2. Validating only one position match with the required char.
 
+## Day 3
+
+Forest and trees
+
+1. Count trees until the bottom of the map
+2. Multiply trees of a list of steps
+
 -----
 > Copyright (c) 2020. Uriel Márquez All Rights Reserved
 > https://umarquez.c0d3.mx

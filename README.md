@@ -4,6 +4,16 @@
 
 Here are my solutions to the challenge
 
+## Instructions
+
+```
+git clone https://github.com/umarquez/advent-of-code-2020
+cd advent-of-code-2020
+go test ./...
+```
+
+# Challenges Status
+
 ## Day 1
 
 1. The multiplication of two numbers that sums 2020. ✔
